@@ -4,7 +4,7 @@ import { Button } from '../button/button'
 import {MdMessage} from 'react-icons/md' 
 import {FaPhoneAlt} from 'react-icons/fa'
 import {HiMail} from 'react-icons/hi'
-import servicepic from '/Web Development/React/react-app/src/assests/Service 24_7-pana 1.png'
+import servicepic from '../../assests/Service 24_7-pana 1.png'
  
 
 export const Contactform = () => {
